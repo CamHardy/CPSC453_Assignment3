@@ -1,0 +1,28 @@
+Hey welcome to the README
+
+Cameron Hardy
+ID: 10084560
+CPSC 453
+Assignment 3
+
+This should compile on most of the CompSci computers, although I had to run that -lGL fix that Scott posted on Piazza
+
+Open up the terminal and type:
+make
+./boilerplate
+
+Instruction for safe and effective use:
+Press 1 for a kettle
+Press 2 for a fish
+At any time while viewing our exquisite cerulean kettle or luscious ochre fish you can press space to toggle control points.
+
+Press 3 for words
+While examining the words, you can press up/down to rotate through fonts, or press left/right to rotate through phrases.
+You can also press space to see which lines are linear (red), quadratic (green), and cubic (blue).
+
+You can use the scroll wheel to cause the image or text to move left or right.
+If you get seasick, or if you lose sight of the image and begin to despair, press 0 to reset everything.
+
+Note that the side to side scrolling goes waayyyyy out of bounds. I ran out of time to fix that. Sorry.
+
+I got some help from Susant mostly.
